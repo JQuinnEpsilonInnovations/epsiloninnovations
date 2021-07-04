@@ -4082,6 +4082,7 @@ input[type=button].btn-block {
     overflow: visible;
   }
   .navbar-expand-sm .navbar-collapse {
+    background: transparent;
     display: flex !important;
     flex-basis: auto;
   }
