@@ -3990,6 +3990,10 @@ input[type=button].btn-block {
   text-decoration: none;
 }
 
+.navbar-collapse {
+	background: #000;
+}
+
 .navbar-nav {
   display: flex;
   flex-direction: column;
@@ -4082,7 +4086,6 @@ input[type=button].btn-block {
     overflow: visible;
   }
   .navbar-expand-sm .navbar-collapse {
-    background: transparent;
     display: flex !important;
     flex-basis: auto;
   }
